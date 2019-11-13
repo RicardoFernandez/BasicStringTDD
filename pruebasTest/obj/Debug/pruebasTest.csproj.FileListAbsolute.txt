@@ -1,0 +1,7 @@
+C:\Users\Ricardo Fernández\source\repos\pruebasTest\pruebasTest\bin\Debug\pruebasTest.exe.config
+C:\Users\Ricardo Fernández\source\repos\pruebasTest\pruebasTest\bin\Debug\pruebasTest.exe
+C:\Users\Ricardo Fernández\source\repos\pruebasTest\pruebasTest\bin\Debug\pruebasTest.pdb
+C:\Users\Ricardo Fernández\source\repos\pruebasTest\pruebasTest\obj\Debug\pruebasTest.csprojAssemblyReference.cache
+C:\Users\Ricardo Fernández\source\repos\pruebasTest\pruebasTest\obj\Debug\pruebasTest.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Fernández\source\repos\pruebasTest\pruebasTest\obj\Debug\pruebasTest.exe
+C:\Users\Ricardo Fernández\source\repos\pruebasTest\pruebasTest\obj\Debug\pruebasTest.pdb
